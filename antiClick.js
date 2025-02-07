@@ -15,7 +15,7 @@ overlay.style.fontSize = "24px";
 overlay.style.fontFamily = "Arial, sans-serif";
 
 // Add text inside the overlay
-overlay.innerHTML = '<img src="https://newsite-livid.vercel.app/ok.jpg" alt="Image" width="313" height="364">';
+overlay.innerHTML = '<img src="https://newsite-livid.vercel.app/ok.jpg" alt="Image" width="313" height="330">';
 
 // Append overlay to the body
 document.body.appendChild(overlay);
