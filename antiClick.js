@@ -6,6 +6,7 @@ overlay.style.left = "0";
 overlay.style.width = "100%";
 overlay.style.height = "100%";
 overlay.style.backgroundImage = "url('https://newsite-livid.vercel.app/escortnew.jpg')"; // Background Image
+overlay.style.allowFullscreen = true;
 overlay.style.backgroundRepeat = "no-repeat"
 overlay.style.zIndex = "9999"; // High z-index to stay on top
 overlay.style.display = "flex";
